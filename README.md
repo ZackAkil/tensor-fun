@@ -13,3 +13,6 @@ This only needs to be done once, and can be done in a separate notebook.
 Once it is done, 'tensorflow' will finally show inside Anaconda as an installed package and will work inside of Jupyter Notebooks managed by Anaconda.
 
 ![Image of installed tensorflow in Anaconda](tensor_in_anaconda.png)
+
+# Resource
+https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
